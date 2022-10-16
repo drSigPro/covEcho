@@ -1,0 +1,4 @@
+5 0.738297 0.538636 0.219444 0.468182 0.0666667
+Below Average, severity score: -1
+Image quality score: 30
+
