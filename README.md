@@ -6,7 +6,9 @@ A lung ultrasound toolbox for object detection followed by image quality scoring
 
 - Install necessary libraries employing requirements.txt
 - Clone this repository
+- Store the data in the 'data' folder (Sample images are already provided for usage).
 - Run 'python Severity_LUS.py'
+- Results will be created in '/runs/detect' as 'exp' folder (A new folder will be created each time)
 
 ##### Code Available under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) (see https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
