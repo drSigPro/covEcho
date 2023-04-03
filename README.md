@@ -17,7 +17,7 @@ A lung ultrasound toolbox for object detection followed by image quality scoring
 #### ACADEMIC REFERENCES TO BE CITED:
 1. Jinu Joseph, Mahesh Raveendranatha Panicker, Yale Tung Chen, Kesavadas Chandrasekharan, Vimal Chacko Mondy, Anoop Ayyappan, Jineesh Valakkada and Kiran Vishnu Narayan, “covEcho-Resource Constrained Lung Ultrasound Video Analysis Tool for Faster Triaging and Active Learning”, (Under Review). arXiv link: https://arxiv.org/abs/2206.10183 
 
-2. Refer to http://www.pulseecho.in/alus/covecho/ for more details
+2. Refer to https://www.pulseecho.in/alus/covecho/ for more details
 
 #### Acknowledgements:
 
