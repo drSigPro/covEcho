@@ -15,7 +15,7 @@ A lung ultrasound toolbox for object detection followed by image quality scoring
 ##### Please see the articles mentioned in Academic references and Acknowledgements that are to be cited for any usage of the code and/or data.
 
 #### ACADEMIC REFERENCES TO BE CITED:
-1. Jinu Joseph, Mahesh Raveendranatha Panicker, Yale Tung Chen, Kesavadas Chandrasekharan, Vimal Chacko Mondy, Anoop Ayyappan, Jineesh Valakkada and Kiran Vishnu Narayan, “clungEcho - Resource Constrained Lung Ultrasound Video Analysis Tool for Faster Triaging and Active Learning”, Elsevier Biomedical Engineering Advances, vol 6 (100094), Nov 2023. https://doi.org/10.1016/j.bea.2023.100094 
+1. Jinu Joseph, Mahesh Raveendranatha Panicker, Yale Tung Chen, Kesavadas Chandrasekharan, Vimal Chacko Mondy, Anoop Ayyappan, Jineesh Valakkada and Kiran Vishnu Narayan, “lungEcho - Resource Constrained Lung Ultrasound Video Analysis Tool for Faster Triaging and Active Learning”, Elsevier Biomedical Engineering Advances, vol 6 (100094), Nov 2023. https://doi.org/10.1016/j.bea.2023.100094 
 
 #### Acknowledgements:
 1. Yolov5, 4.0 release https://github.com/ultralytics/yolov5
